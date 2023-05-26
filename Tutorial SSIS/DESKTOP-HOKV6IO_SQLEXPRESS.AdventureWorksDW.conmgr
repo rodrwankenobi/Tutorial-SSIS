@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-HOKV6IO_SQLEXPRESS.AdventureWorksDW"
+  DTS:DTSID="{1E1CF6AF-E85E-4487-B21F-03FCA5621F32}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-HOKV6IO\SQLEXPRESS;Initial Catalog=AdventureWorksDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Tutorial SSIS-{1E1CF6AF-E85E-4487-B21F-03FCA5621F32}DESKTOP-HOKV6IO\SQLEXPRESS.AdventureWorksDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
